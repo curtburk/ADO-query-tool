@@ -6,4 +6,4 @@ pydantic>=2.0.0
 
 # Optional: For LLM support (comment out if not needed)
 transformers>=4.35.0
-torch>=2.2.0
+# torch is already handled via the install.sh file
